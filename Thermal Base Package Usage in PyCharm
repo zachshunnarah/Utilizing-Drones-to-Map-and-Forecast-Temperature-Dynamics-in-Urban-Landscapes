@@ -21,4 +21,3 @@ def gettemp(image_path):
 temps = gettemp(r"C:\Users\zrshu\OneDrive - College of Charleston\Drone Data Collection\2023_2024\01292024-90morning\DJI_0912_T.JPG")
 im = Image.fromarray(temps)
 im.save('DJI_0912_T.tif')
-
