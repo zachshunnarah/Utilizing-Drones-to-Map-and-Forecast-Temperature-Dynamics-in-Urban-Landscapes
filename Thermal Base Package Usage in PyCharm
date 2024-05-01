@@ -1,4 +1,4 @@
-#IMPORTS
+#IMPORT PACKAGES
 from PIL import Image
 import numpy as np
 import sys
@@ -16,8 +16,9 @@ def gettemp(image_path):
 
     return thermal_np
 
-#SAVING IMAGES AS TIF FILES... SHOULD GET WHITE IMAGE --- WILL BE SAVED UNDER PYCHARM PROJECTS FOLDER
-#EXAMPLE CODE OF WHERE PICTURES WERE LOCATED
+#SAVING IMAGES AS TIF FILES --- SHOULD GET WHITE IMAGE AT FIRST --- THE METADATA WILL BE MATCHED USING EXIFTOOL
+
+#BELOW IS AN EXAMPLE OF HOW THIS PACKAGE WAS USED IN THIS SPECIFIC RESEARCH
 temps = gettemp(r"C:\Users\zrshu\OneDrive - College of Charleston\Drone Data Collection\2023_2024\01292024-90morning\DJI_0912_T.JPG")
 im = Image.fromarray(temps)
 im.save('DJI_0912_T.tif')
