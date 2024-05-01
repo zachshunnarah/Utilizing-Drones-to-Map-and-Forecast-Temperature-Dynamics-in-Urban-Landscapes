@@ -1,7 +1,19 @@
 The following will help with the different features found in this research:
-* Drone Specifications: https://docs.rs-online.com/c5ce/A700000008264621.pdf (specifications for thermal camera needed for mosaic process)
-* Drone Flying: https://mavicpilots.com/threads/is-there-a-way-the-mavic-can-fly-an-exact-flight-path.35137/
-* Drone Waypoint Walkthrough: https://www.bing.com/videos/riverview/relatedvideo?&q=waypoint+flight+path+mavic+2+enterprise+advanced&&mid=EE86F076834011643CDBEE86F076834011643CDB&&FORM=VRDGAR
-* Mapping Metadata Using Exiftool: https://exiftool.org/exiftool_pod.html#COPYING-EXAMPLES
-* ArcGIS Pro Resources: https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources
-* ArcGIS Mosaic Creation: https://doc.arcgis.com/en/imagery/workflows/tutorials/create-drone-imagery-products-ortho-mapping.htm
+
+* Drone Specifications:
+https://docs.rs-online.com/c5ce/A700000008264621.pdf (specifications for thermal camera needed for mosaic process)
+
+* Drone Flying:
+https://mavicpilots.com/threads/is-there-a-way-the-mavic-can-fly-an-exact-flight-path.35137/
+
+* Drone Waypoint Walkthrough:
+https://www.bing.com/videos/riverview/relatedvideo?&q=waypoint+flight+path+mavic+2+enterprise+advanced&&mid=EE86F076834011643CDBEE86F076834011643CDB&&FORM=VRDGAR
+
+* Mapping Metadata Using Exiftool:
+https://exiftool.org/exiftool_pod.html#COPYING-EXAMPLES
+
+* ArcGIS Pro Resources:
+https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources
+
+* ArcGIS Mosaic Creation:
+https://doc.arcgis.com/en/imagery/workflows/tutorials/create-drone-imagery-products-ortho-mapping.htm
